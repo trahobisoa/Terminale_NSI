@@ -14,5 +14,3 @@ L'ensemble des documents disponibles est publié sous licence _CC-BY-SA_.
 
 **Bibliographie :** 
 - Spécialité NSI Terminale (Editions Eyrolles)
-- Site lyceum.fr
-- Github : glassus.github.io
